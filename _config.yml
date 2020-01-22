@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:title/
+title: Chenyu (Sev) Hou's website
+descritpion: Welcome to my personal website, I'm a PhD candidate in Vancouver School of Economics, UBC. This site is still work in progress.
