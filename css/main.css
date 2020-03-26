@@ -48,17 +48,23 @@ ul.posts li {
     list-style: none;
 }
 
-
-.photo-container {
-  max-width: 20%;
-  padding: 10px;
-  text-align: left;
+.container {
+    margin: 20px 0px;
+    height: auto;
 }
 
-.text-container {
+.imageleft {
+  max-width: 20%;
+  padding: 10px;
+  float: left;
+  margin: 0px;
+}
+
+.textright {
     max-width: 80%;
     padding: 10px; 
-    text-align: left;
+    float: left;
+    margin: 0px;
 }
 
 
