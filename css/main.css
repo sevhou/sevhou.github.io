@@ -41,3 +41,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+
+<!-- On About Page -->
+.photo-container {
+  max-width: 120px;
+  padding: 10px;
+}
