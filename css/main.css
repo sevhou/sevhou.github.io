@@ -52,12 +52,14 @@ ul.posts li {
 .photo-container {
   max-width: 20%;
   padding: 10px;
-  align: left;
+  text-align: left;
 }
 
 .text-container {
     max-width: 80%;
     padding: 10px; 
-    align: left;
+    text-align: left;
 }
+
+
 
