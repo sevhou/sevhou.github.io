@@ -65,6 +65,8 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: 200;
     color: #999;
+    margin: 0px;
+    padding: 5px;
 }
 
 footer {
