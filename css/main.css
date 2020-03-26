@@ -48,23 +48,15 @@ ul.posts li {
     list-style: none;
 }
 
-.container {
-    margin: 20px 0px;
-    height: auto;
-}
 
 .imageleft {
   max-width: 20%;
-  padding: 10px;
+  padding: 0 40px 20px 0;
   float: left;
-  margin: 0px;
 }
 
 .textright {
-    max-width: 80%;
-    padding: 10px; 
-    float: left;
-    margin: 0px;
+    margin: 20px;
 }
 
 
