@@ -67,6 +67,19 @@ p {
     padding: 5px;
 }
 
+.bluebutton {
+  background-color: #008CBA;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
 footer {
     border-top: 1px solid #d5d5d5;
