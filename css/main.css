@@ -68,6 +68,10 @@ p {
     padding: 5px;
 }
 
+h2.light-text {
+    margin:0px;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -88,6 +92,8 @@ ul.posts li {
   height: auto;
   border-radius: 50%;
 }
+
+
 
 .rightblock {
     max-width: 80%;
