@@ -67,11 +67,11 @@ a.bluebutton {
   color: white;
   padding: 10px 25px;
   font-family: 'Impact', 'sans-serif';
-   text-align: center;
+  text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 20px 0px;
   cursor: pointer;
 }
 
@@ -89,6 +89,8 @@ ul.posts li {
     list-style: none;
 }
 
+
+
 .avatar {
   vertical-align: middle;
   width: 20%;
@@ -96,13 +98,11 @@ ul.posts li {
   border-radius: 50%;
 }
 
-
-
 .rightblock {
     max-width: 80%;
     margin: 20px;
 }
-    
+
     .imageleft {
   max-width: 20%;
   padding: 0 40px 20px 0;
