@@ -38,6 +38,9 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 10px;
 }
+    hr.h1 {
+        color: #999;
+    }
 
 h2 {
     font-size: 1.2em;
