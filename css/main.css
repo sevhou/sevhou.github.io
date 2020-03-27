@@ -82,9 +82,11 @@ ul.posts li {
     list-style: none;
 }
 
-.leftblock {
-  max-width: 20%;
-  padding: 0 40px 20px 0;
+.avatar {
+  vertical-align: middle;
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
 }
 
 .rightblock {
@@ -92,13 +94,11 @@ ul.posts li {
     margin: 20px;
 }
     
-<!--
     .imageleft {
   max-width: 20%;
   padding: 0 40px 20px 0;
   float: left;
 }
-    -->
 
 .textright {
     margin: 20px;
