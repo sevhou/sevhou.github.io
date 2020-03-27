@@ -82,12 +82,23 @@ ul.posts li {
     list-style: none;
 }
 
+.leftblock {
+  max-width: 20%;
+  padding: 0 40px 20px 0;
+}
 
-.imageleft {
+.rightblock {
+    max-width: 80%;
+    margin: 20px;
+}
+    
+<!--
+    .imageleft {
   max-width: 20%;
   padding: 0 40px 20px 0;
   float: left;
 }
+    -->
 
 .textright {
     margin: 20px;
