@@ -92,7 +92,9 @@ ul.posts li {
     list-style: none;
 }
 
-
+.blurb {
+    display: inline-block; 
+}
 
 .avatar {
   vertical-align: middle;
