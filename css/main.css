@@ -101,11 +101,15 @@ ul.posts li {
   width: 20%;
   height: auto;
   border-radius: 50%;
+  float: left;
 }
 
 .rightblock {
-    max-width: 80%;
-    margin: 20px;
+    margin-left: 25%;
+}
+.rightblock h2 {
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
     .imageleft {
