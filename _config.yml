@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: Chenyu (Sev) Hou's website
 descritpion: Chenyu Sev Hou is a PhD Candidate from Vancouver School of Economics, University of British Columbia. Learn about my Research, Teaching and CV.
+plugins:
+  - jekyll-seo-tag
