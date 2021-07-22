@@ -147,3 +147,10 @@ a.bluebutton {
     .box-inner{
         padding: 10px;
     }
+    .box_show{
+        width: 99%;
+        background: transparent;
+        border: 1px #A9A9A9;
+      	border-style: none none none;
+      	border-width:5px;
+    }
