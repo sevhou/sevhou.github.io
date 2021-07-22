@@ -68,6 +68,7 @@ pp {
     font-family: 'Ariel', 'sans-serif';
     height: 2;
     color: #333;
+    padding: 10px;
 }
 
 .light-text {
