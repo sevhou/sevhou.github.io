@@ -44,7 +44,7 @@ h1 {
     }
 
 h2 {
- font-size: 1.4em;
+ font-size: 1.2em;
  font-family: 'Franklin Gothic Bold', 'sans-serif';
  height: 0.8em;
  color: #5f5f5f;
@@ -57,7 +57,7 @@ h2:hover {
 
         
 p {
-    font-size: 1.2em;
+    font-size: 1.0em;
     font-family: 'sans-serif';
     line-height: 0.2em;
     color: #333;
