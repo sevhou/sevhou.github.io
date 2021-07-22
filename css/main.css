@@ -63,6 +63,13 @@ p {
     padding: 10px;
 }
 
+pp {
+    font-size: 1em;
+    font-family: 'Ariel', 'sans-serif';
+    height: 0;
+    color: #333;
+}
+
 .light-text {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: 200;
