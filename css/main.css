@@ -63,14 +63,6 @@ p {
     padding: 10px;
 }
 
-pp {
-    font-size: 1em;
-    font-family: 'Ariel', 'sans-serif';
-    height: 2;
-    color: #333;
-    padding: 10px;
-}
-
 .light-text {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: 200;
@@ -80,6 +72,14 @@ pp {
 .thin-margin {
     margin: 0px;
     padding: 0px;
+}
+
+pp {
+    font-size: 1em;
+    font-family: 'Ariel', 'sans-serif';
+    height: 4;
+    color: #333;
+    padding: 10px;
 }
 
 
