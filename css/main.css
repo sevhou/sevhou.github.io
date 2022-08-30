@@ -9,7 +9,7 @@ header {
     height: 120px; 
     width: auto;
     margin: -10% -30% 0 -30%; 
-    background-image:url("https://github.com/sevhou/sevhou.github.io/blob/gh-pages/banner.jpeg");
+    background-image: url("Desktop/banner.jpeg");
 }
 
 nav ul, footer ul {
