@@ -171,9 +171,16 @@ label {
   font-style: oblique 23deg;
 }
 
-pubf {
+jname {
     font-size: 0.9em;
     font-family: 'Ariel', 'sans-serif';
     color: #333;
     font-style: oblique 23deg;
+}
+
+pubf {
+    font-size: 0.9em;
+    font-family: 'Ariel', 'sans-serif';
+    color: #333;
+    font-style: normal;
 }
