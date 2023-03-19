@@ -176,6 +176,7 @@ jname {
     font-family: 'Ariel', 'sans-serif';
     color: #333;
     font-style: oblique 23deg;
+    font-weight: bold;
 }
 
 pubf {
@@ -183,4 +184,5 @@ pubf {
     font-family: 'Ariel', 'sans-serif';
     color: #333;
     font-style: normal;
+    font-weight: lighter;
 }
